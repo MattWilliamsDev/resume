@@ -16,7 +16,7 @@
 * Apache Web Server Deployment, Management, & Administration
 
 # Software & Technologies
-## Adobe Creative Suite:
+### Adobe Creative Suite:
 * Photoshop
 * Fireworks
 * Illustrator
@@ -24,24 +24,29 @@
 * InDesign
 * Premiere (Pro)
 * Some experience with After Effects
-## Database:
+
+### Database:
 * MySQL and Microsoft SQL Server
 * NoSQL (limited) [mongoDB]
-## Operating Systems:
+
+### Operating Systems:
 * Microsoft Windows [XP, Vista, 7, 8]
 * Linux [Ubuntu, LAMP Server]
-## CMS/E-commerce:
+
+### CMS/E-commerce:
 * Magento E-commerce platform
 * WordPress
 * Joomla!
 * VirtueMart (Joomla e-commerce)
 * Drupal 7
-## Back-end Frameworks:
+
+### Back-end Frameworks:
 * Yii
 * Laravel
 * Zend (limited)
 * Implementation and maintenance of various ORM implementations
-## Front-end Frameworks, Plugins, and APIs: 
+
+### Front-end Frameworks, Plugins, and APIs: 
 * RequireJS [AMD Loading]
 * RactiveJS
 * BackboneJS [JS Framework]
@@ -55,7 +60,8 @@
 * Pinterest API
 * jQuery plugin development and customization
 * numerous other plugins and scripts.
-## Other:
+
+### Other:
 * SSH
 * Web Server Deployment
 * Maintenance
@@ -357,3 +363,4 @@
 # References
 
 References are available upon request.
+
