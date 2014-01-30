@@ -189,6 +189,8 @@
 </dl>
 
 # Published Work
+## [More Updates Pending]
+
 ## StreetFXSeries.com
 <dl>
     <dt>Built with:</dt>
