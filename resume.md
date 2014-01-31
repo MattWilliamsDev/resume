@@ -333,7 +333,7 @@
 ## Buztronics Corporate Portal
 <dl>
     <dt>Built with:</dt>
-    <dd>Magento Ecommerce Platform</dd>
+    <dd>Drupal 7</dd>
 
     <dt>Responsibilities:</dt>
     <dd>
