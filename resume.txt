@@ -82,7 +82,7 @@ Experience Summary
     - 8+years working with HTML and CSS
     - 5+ years working with PHP/MySQL, and [L|W]AMP servers
     - 2+ years working with jQuery and plain JavaScript
-    - 1+ years working with front-end frameworks and developing input-driven applications
+    - 2+ years working with front-end frameworks and developing input-driven applications
     - Website Search Engine Optimization with Google, Bing, and Yahoo webmaster tools, as well as common SEO best practices.
     - Excellent written and verbal communication skills, along with a strong ability to multi-task and be able to manage multiple deadlines on multiple projects at once.
     - Able to work well with a team and effectively communicate thoughts and ideas.
@@ -94,6 +94,13 @@ Experience Summary
 
 Experience
 ===========================
+    # UI Engineer - Marketing Cloud App UI Team
+    ExactTarget [via Centric Consulting] - Indianapolis, IN
+    January 2014 - Present
+        - Member of the team responsible for creating a robust UI for the ET/Salesforce Marketing Cloud app
+            > Use of Marionette, Backbone, Underscore, jQuery, & NodeJS
+        - Maintenance of some existing ET applications
+
     # Software Engineer
     PERQ - Indianapolis, IN
     January 2013 - January 2014

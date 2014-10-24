@@ -2,14 +2,14 @@
 <dl>
     <dt>Cliff Weiler</dt>
     <dd>
-        Software Engineer - PERQ<br>
+        Software Engineer - PERQ (formerly)<br>
         <strong>e:</strong> cliff@cliffweiler.com<br>
         <strong>p:</strong> (317) 509-0975
     </dd>
 
     <dt>Ty Hudson</dt>
     <dd>
-        Software Engineer - PERQ<br>
+        Software Engineer - PERQ (formerly)<br>
         <strong>e:</strong> ty@tysoft.me<br>
         <strong>p:</strong> (765) 228-9572
     </dd>
@@ -19,13 +19,6 @@
         Software Engineer - PERQ<br>
         <strong>e:</strong> matthewdouglas@gmail.com<br>
         <strong>p:</strong> (765) 481-5360
-    </dd>
-
-    <dt>Neil Kelty</dt>
-    <dd>
-        Technical Product Manager - PERQ<br>
-        <strong>e:</strong> neil@neilkelty.com<br>
-        <strong>p:</strong> (260) 760-3988
     </dd>
 
     <dt>Brad Zavakos</dt>

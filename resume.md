@@ -50,10 +50,11 @@
 * RequireJS [AMD Loading]
 * RactiveJS
 * BackboneJS [JS Framework]
+* Marionette [JS Framework built with Backbone]
 * DirectorJS [Client-side Routing]
 * Grunt [JS task-runner]
 * AngularJS (limited)
-* NodeJS (limited)
+* NodeJS
 * various Google APIs
 * Facebook API
 * Twitter API
@@ -81,7 +82,7 @@
 * 8+years working with HTML and CSS
 * 5+ years working with PHP/MySQL, and [L|W]AMP servers
 * 2+ years working with jQuery and plain JavaScript
-* 1+ years working with front-end frameworks and developing input-driven applications
+* 2+ years working with front-end frameworks and developing input-driven applications
 * Website Search Engine Optimization with Google, Bing, and Yahoo webmaster tools, as well as common SEO best practices.
 * Excellent written and verbal communication skills, along with a strong ability to multi-task and be able to manage multiple deadlines on multiple projects at once.
 * Able to work well with a team and effectively communicate thoughts and ideas.
@@ -91,7 +92,17 @@
 * Relentless drive to help make myself, my teammates, and my delivered work the best it can possibly be by staying aware of new development updates, trends, methods, frameworks, and techniques.
 * Self-motivational skills allow me to thrive while working remotely, on my own, or as a relied-upon member of a team.
 
+
 # Experience
+## UI Engineer
+### ExactTarget [via Centric Consulting]
+##### Marketing Cloud App UI Team
+#### Indianapolis, IN, January 2014 - Present
+* Member of the team responsible for creating a robust UI for the ET/Salesforce Marketing Cloud app
+* Maintenance of some existing ET applications
+* Use of Marionette, Backbone, Underscore, jQuery, & NodeJS
+
+
 ## Software Engineer
 ### PERQ
 #### Indianapolis, IN, January 2013 - January 2014
@@ -100,10 +111,11 @@
 * Design and development of jQuery plugins for use in some of the company's various web-based products.
 * Development of JS/jQuery-driven web applications
 * Other Responsibilities:
-    ..* Design and development of the client-side data structure and client-side operation
-    ..* Development and implementation of server-side PHP elements like controllers for API-style data endpoints to be utilized by various elements of the applications via AJAX, and the ORM-based data models and other PHP and MySQL-based database interactions
-    ..* HTML authoring, typically utilizing Twitter Bootstrap as a responsive foundation
-    ..* Custom CSS for implementing designs provided by the UI/UX team
+    -- Design and development of the client-side data structure and client-side operation
+    -- Development and implementation of server-side PHP elements like controllers for API-style data endpoints to be utilized by various elements of the applications via AJAX, and the ORM-based data models and other PHP and MySQL-based database interactions
+    -- HTML authoring, typically utilizing Twitter Bootstrap as a responsive foundation
+    -- Custom CSS for implementing designs provided by the UI/UX team
+
 
 ## Web Developer
 ### Buztronics, Inc.
@@ -135,7 +147,7 @@
 * Studied toward degree in Marketing
 * Member of the Tri-State University Baseball team
 * Member of the Tau Kappa Epsilon Fraternity - Beta Epsilon Chapter
-    ..* Voted Vice President at the end of Freshman year
+    -- Voted Vice President at the end of Freshman year
 
 ## Freelance Work
 ### CARRSindiana.com - 2011
