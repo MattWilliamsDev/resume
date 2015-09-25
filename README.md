@@ -111,10 +111,10 @@
 * Design and development of jQuery plugins for use in some of the company's various web-based products.
 * Development of JS/jQuery-driven web applications
 * Other Responsibilities:
-    -- Design and development of the client-side data structure and client-side operation
-    -- Development and implementation of server-side PHP elements like controllers for API-style data endpoints to be utilized by various elements of the applications via AJAX, and the ORM-based data models and other PHP and MySQL-based database interactions
-    -- HTML authoring, typically utilizing Twitter Bootstrap as a responsive foundation
-    -- Custom CSS for implementing designs provided by the UI/UX team
+  - Design and development of the client-side data structure and client-side operation
+  - Development and implementation of server-side PHP elements like controllers for API-style data endpoints to be utilized by various elements of the applications via AJAX, and the ORM-based data models and other PHP and MySQL-based database interactions
+  - HTML authoring, typically utilizing Twitter Bootstrap as a responsive foundation
+  - Custom CSS for implementing designs provided by the UI/UX team
 
 
 ## Web Developer
