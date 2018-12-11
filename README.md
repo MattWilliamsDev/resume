@@ -10,10 +10,15 @@
 * HTML{5} & CSS{3}
 * PHP{5.2+}, including numerous PHP-based frameworks and Content Management Systems
 * CMS Module/Extension Development [WordPress, Drupal, Magento, & Joomla]
-* JavaScript/Prototype, jQuery, and other JS libraries, front-end frameworks, APIs and plugins
+* NodeJS
+* TypeScript
+* JavaScript (ES5-ESNext+), RxJS, Promises, jQuery, and other JS libraries, front-end frameworks, APIs and plugins
 * jQuery plugin development and plugin implementation
 * Mustache and Handlebars Templating Engines
 * Apache Web Server Deployment, Management, & Administration
+* Front-end component design, architecture, and development
+* React and various state management tools like Flux, Reflux, & Redux, along with Redux plugins
+* AngularJS and Angular application development
 
 # Software & Technologies
 ### Adobe Creative Suite:
@@ -32,6 +37,7 @@
 ### Operating Systems:
 * Microsoft Windows [XP, Vista, 7, 8]
 * Linux [Ubuntu, LAMP Server]
+* OSX/MacOS
 
 ### CMS/E-commerce:
 * Magento E-commerce platform
@@ -47,6 +53,10 @@
 * Implementation and maintenance of various ORM implementations
 
 ### Front-end Frameworks, Plugins, and APIs: 
+* React & related tools (Redux, Reflux, etc)
+* Angular & RxJS
+* Bootstrap, as well as both React and Angular libraries built for use with it
+* Material Design, as well as both React and Angular libraries built for use with it
 * RequireJS [AMD Loading]
 * RactiveJS
 * BackboneJS [JS Framework]
@@ -70,6 +80,7 @@
 * Search Engine Optimization
 * Microsoft Office Suite
 * OpenOffice.org Suite
+* VSCode
 * Sublime Text 2/3
 * NetBeans IDE
 * Firebug/Chrome Developer Tools
@@ -79,11 +90,11 @@
 
 # Experience Summary
 * 8+ years working with Adobe Photoshop and the rest of the Adobe Creative Suite for graphic design and web design purposes.  This includes everything from logo design to basic graphic creation to complete template design, slicing, and implementation into various CMS platforms.
-* 8+years working with HTML and CSS
+* 12+years working with HTML and CSS
 * 5+ years working with PHP/MySQL, and [L|W]AMP servers
-* 2+ years working with jQuery and plain JavaScript
-* 2+ years working with front-end frameworks and developing input-driven applications
-* Website Search Engine Optimization with Google, Bing, and Yahoo webmaster tools, as well as common SEO best practices.
+* 6+ years working with JS professionally
+* 6+ years working with front-end frameworks and developing input-driven applications
+* 4+ years experience architecting and building testable and reusable front-end UI components for use in web, native, or hybrid applications
 * Excellent written and verbal communication skills, along with a strong ability to multi-task and be able to manage multiple deadlines on multiple projects at once.
 * Able to work well with a team and effectively communicate thoughts and ideas.
 * Strong problem-solving skills and ability to quickly adapt to new situations and needs.
@@ -98,9 +109,16 @@
 ### ExactTarget [via Centric Consulting]
 ##### Marketing Cloud App UI Team
 #### Indianapolis, IN, January 2014 - Present
-* Member of the team responsible for creating a robust UI for the ET/Salesforce Marketing Cloud app
-* Maintenance of some existing ET applications
-* Use of Marionette, Backbone, Underscore, jQuery, & NodeJS
+* 1.5 years in staff augmentation role with the Marketing Cloud App UI and Campaigns App UI teams at ExactTarget 
+* Part of the team responsible for creating and maintaining the admin areas, MC menu bar, dashboard, calendar, and other areas of the larger Marketing Cloud app utilizing a Backbone Marionette app running inside of an Express JS app via NodeJS 
+* Part of the team responsible for rewriting the ET Campaigns app with the Backbone Marionette framework.  I was personally responsible for the Asset Storyboard, along with other areas of the campaigns app and overall approval process 
+* Approximately 2 years of experience working with ReactJS for custom web app development 
+* Approximately 1.5 years experience with Angular 2+ application development (with TypeScript) 
+* Experience working for various clients utilizing such technologies as J2EE, NodeJS, AngularJS (v1), Angular (v2+), and ReactJS for building web applications 
+* Some experience with React Native for building cross-platform native mobile apps, and the Ionic platform for building hybrid mobile apps 
+* Trained in native mobile application development with both Objective-C and React Native 
+* Experience in iOS development with Swift for Ascension Health 
+* 1+ years working in a staff augmentation role at Kroger as UI lead for the LEAP application
 
 
 ## Software Engineer
