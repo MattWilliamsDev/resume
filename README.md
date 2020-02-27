@@ -107,16 +107,14 @@
 * Self-motivational skills allow me to thrive while working remotely, on my own, or as a relied-upon member of a team.
 
 # Experience
-## Frontend Developer
-### DeveloperTown
+### Frontend Developer - DeveloperTown
 #### Indianapolis, IN, April 2019 - Present
 * Custom applications development using React (with Redux, Typescript, Material UI)
 * Approximately 3-months spent on project with Cummins, Inc.
 * Remainder of time has been spent in a staff augmentation role at Samaritan Ministries via 8th Light
 * Teaching and developing new front-end talent has been a large part of my role with Samaritan
 
-## Consultant
-### Centric Consulting
+### Consultant - Centric Consulting
 #### Indianapolis, IN, January 2014 - March 2019
 * 1.5 years in staff augmentation role with the Marketing Cloud App UI and Campaigns App UI teams at ExactTarget 
 * Part of the team responsible for creating and maintaining the admin areas, MC menu bar, dashboard, calendar, and other areas of the larger Marketing Cloud app utilizing a Backbone Marionette app running inside of an Express JS app via NodeJS 
@@ -130,8 +128,7 @@
 * Experience working for various clients utilizing such technologies as J2EE, NodeJS, AngularJS (v1), Angular (v2+), and ReactJS for building web applications 
 
 
-## Software Engineer
-### PERQ
+### Software Engineer - PERQ
 #### Indianapolis, IN, January 2013 - January 2014
 * Maintenance of existing web-based internal systems
 * Development of new web-based products for the company
@@ -144,8 +141,7 @@
   - Custom CSS for implementing designs provided by the UI/UX team
 
 
-## Web Developer
-### Buztronics, Inc.
+### Web Developer - Buztronics, Inc.
 #### Indianapolis, IN, April 2010 – January 2013
 * Building, updating, and maintaining all of the company’s numerous web sites/stores as the member of a 2-man IT Department.
 * Custom extension development for Joomla!/VirtueMart, and Magento E-commerce platform to suit the various unique needs of the company.
@@ -153,15 +149,14 @@
 * Asked to handle various IT/Tech Support-related tasks and fixing small bugs when they pop up while our IT Department Head is out of the office.
 
 
-## Manager 
-### Donato’s Pizza
+### Manager - Donato’s Pizza
 #### Indianapolis/Carmel, IN, Dec 2007 – Sept 2010
 * Ensure all orders were completed correctly and in the promised amount of time.
 * Oversaw employees while working to ensure all orders were completed to satisfactory standards set by the company and myself.
 * Entrusted with counting and depositing funds from the business day/previous business day, inventory management and control, personnel management, delivery routing/logistics, customer service responsibilities, and product ordering.
 
 # Education
-## Associate's Degree - Visual Communication
+### Associate's Degree - Visual Communication
 ### ITT Technical Institute
 #### Indianapolis, IN, Dec 2007 – March 2010
 * Graduated with degree in Visual Communication
