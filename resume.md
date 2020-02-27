@@ -1,52 +1,31 @@
 ### Matt Williams
-##### Indianapolis, IN
+##### Fishers, IN
 ##### 317.702.4504
 ##### bleacherbum17@gmail.com
 
 # Technical skills
 ## Programming Languages & Development-Related Proficiencies
-* Git
+* Frontend application design, architecture, and development
+* React (including hooks) and various state management tools like Redux, Flux, & Reflux, along with various Redux plugins
+* Angular and AngularJS application development
+* NodeJS application development
+* TypeScript
+* JavaScript (ES5-ESNext+), RxJS, Promises, jQuery, and other JS libraries, frontend frameworks, APIs and plugins
 * Agile Software Development
 * HTML{5} & CSS{3}
 * PHP{5.2+}, including numerous PHP-based frameworks and Content Management Systems
+* Git
 * CMS Module/Extension Development [WordPress, Drupal, Magento, & Joomla]
-* JavaScript/Prototype, jQuery, and other JS libraries, front-end frameworks, APIs and plugins
 * jQuery plugin development and plugin implementation
 * Mustache and Handlebars Templating Engines
 * Apache Web Server Deployment, Management, & Administration
 
 # Software & Technologies
-### Adobe Creative Suite:
-* Photoshop
-* Fireworks
-* Illustrator
-* Dreamweaver
-* InDesign
-* Premiere (Pro)
-* Some experience with After Effects
-
-### Database:
-* MySQL and Microsoft SQL Server
-* NoSQL (limited) [mongoDB]
-
-### Operating Systems:
-* Microsoft Windows [XP, Vista, 7, 8]
-* Linux [Ubuntu, LAMP Server]
-
-### CMS/E-commerce:
-* Magento E-commerce platform
-* WordPress
-* Joomla!
-* VirtueMart (Joomla e-commerce)
-* Drupal 7
-
-### Back-end Frameworks:
-* Yii
-* Laravel
-* Zend (limited)
-* Implementation and maintenance of various ORM implementations
-
-### Front-end Frameworks, Plugins, and APIs: 
+### Frontend Frameworks, Plugins, and APIs: 
+* React & related tools (Redux, Reflux, etc)
+* Angular & RxJS
+* Bootstrap, as well as both React and Angular libraries built for use with it
+* Material Design, as well as both React and Angular libraries built for use with it
 * RequireJS [AMD Loading]
 * RactiveJS
 * BackboneJS [JS Framework]
@@ -60,7 +39,39 @@
 * Twitter API
 * Pinterest API
 * jQuery plugin development and customization
-* numerous other plugins and scripts.
+* Nnumerous other plugins and scripts.
+  
+### Adobe Creative Suite:
+* Photoshop
+* Fireworks
+* Illustrator
+* Dreamweaver
+* InDesign
+* Premiere (Pro)
+* Some experience with After Effects
+
+### Database:
+* MySQL and Microsoft SQL Server
+* ExactTarget Data Extensions as a DB
+* NoSQL [mongoDB]
+
+### Operating Systems:
+* Microsoft Windows [XP, Vista, 7, 8, 10]
+* Linux [Ubuntu, LAMP Server]
+* OSX/MacOS
+
+### CMS/E-commerce:
+* Magento E-commerce platform
+* WordPress
+* Joomla!
+* VirtueMart (Joomla e-commerce)
+* Drupal 7
+
+### Backend Frameworks:
+* Yii
+* Laravel
+* Zend (limited)
+* Implementation and maintenance of various ORM implementations
 
 ### Other:
 * SSH
@@ -70,6 +81,7 @@
 * Search Engine Optimization
 * Microsoft Office Suite
 * OpenOffice.org Suite
+* VS Code, Sublime Text, other IDEs
 * Sublime Text 2/3
 * NetBeans IDE
 * Firebug/Chrome Developer Tools
@@ -79,11 +91,13 @@
 
 # Experience Summary
 * 8+ years working with Adobe Photoshop and the rest of the Adobe Creative Suite for graphic design and web design purposes.  This includes everything from logo design to basic graphic creation to complete template design, slicing, and implementation into various CMS platforms.
-* 8+years working with HTML and CSS
+* 13+years working with HTML and CSS
 * 5+ years working with PHP/MySQL, and [L|W]AMP servers
-* 2+ years working with jQuery and plain JavaScript
-* 2+ years working with front-end frameworks and developing input-driven applications
-* Website Search Engine Optimization with Google, Bing, and Yahoo webmaster tools, as well as common SEO best practices.
+* 7+ years working with JS professionally
+* 7+ years working with frontend frameworks and developing input-driven applications
+* 5+ years experience architecting and building testable and reusable frontend UI components for use in web, native, or hybrid applications
+* 2+ years experience leading and teaching backend/hybrid development teams to become more comfortable and proficient with modern frontend app development
+* 1.5 years experience as a frontend lead on a diverse team located across multiple continents
 * Excellent written and verbal communication skills, along with a strong ability to multi-task and be able to manage multiple deadlines on multiple projects at once.
 * Able to work well with a team and effectively communicate thoughts and ideas.
 * Strong problem-solving skills and ability to quickly adapt to new situations and needs.
@@ -92,15 +106,28 @@
 * Relentless drive to help make myself, my teammates, and my delivered work the best it can possibly be by staying aware of new development updates, trends, methods, frameworks, and techniques.
 * Self-motivational skills allow me to thrive while working remotely, on my own, or as a relied-upon member of a team.
 
-
 # Experience
-## UI Engineer
-### ExactTarget [via Centric Consulting]
-##### Marketing Cloud App UI Team
-#### Indianapolis, IN, January 2014 - Present
-* Member of the team responsible for creating a robust UI for the ET/Salesforce Marketing Cloud app
-* Maintenance of some existing ET applications
-* Use of Marionette, Backbone, Underscore, jQuery, & NodeJS
+## Frontend Developer
+### DeveloperTown
+#### Indianapolis, IN, April 2019 - Present
+* Custom applications development using React (with Redux, Typescript, Material UI)
+* Approximately 3-months spent on project with Cummins, Inc.
+* Remainder of time has been spent in a staff augmentation role at Samaritan Ministries via 8th Light
+* Teaching and developing new front-end talent has been a large part of my role with Samaritan
+
+## Consultant
+### Centric Consulting
+#### Indianapolis, IN, January 2014 - March 2019
+* 1.5 years in staff augmentation role with the Marketing Cloud App UI and Campaigns App UI teams at ExactTarget 
+* Part of the team responsible for creating and maintaining the admin areas, MC menu bar, dashboard, calendar, and other areas of the larger Marketing Cloud app utilizing a Backbone Marionette app running inside of an Express JS app via NodeJS 
+* Part of the team responsible for rewriting the ET Campaigns app with the Backbone Marionette framework.  I was personally responsible for the Asset Storyboard, along with other areas of the campaigns app and overall approval process 
+* 1+ years working in a staff augmentation role at Kroger as UI lead for the LEAP application
+* 2+ years working with ReactJS for a custom app development 
+* Approximately 1.5 years experience with Angular (2+) application development (with TypeScript) 
+* Approximately 8 months writing iPad apps with Swift for Ascension Health 
+* Trained in native mobile application development with both Objective-C and React Native 
+* Some experience with React Native for building cross-platform native mobile apps, and the Ionic platform for building hybrid mobile apps 
+* Experience working for various clients utilizing such technologies as J2EE, NodeJS, AngularJS (v1), Angular (v2+), and ReactJS for building web applications 
 
 
 ## Software Engineer
@@ -134,6 +161,7 @@
 * Entrusted with counting and depositing funds from the business day/previous business day, inventory management and control, personnel management, delivery routing/logistics, customer service responsibilities, and product ordering.
 
 # Education
+## Associate's Degree - Visual Communication
 ### ITT Technical Institute
 #### Indianapolis, IN, Dec 2007 – March 2010
 * Graduated with degree in Visual Communication
@@ -148,231 +176,6 @@
 * Member of the Tri-State University Baseball team
 * Member of the Tau Kappa Epsilon Fraternity - Beta Epsilon Chapter
     -- Voted Vice President at the end of Freshman year
-
-## Freelance Work
-### CARRSindiana.com - 2011
-<dl>
-    <dt>Built with:</dt>
-    <dd>Joomla! CMS</dd>
-    
-    <dt> Responsibilities:</dt>
-    <dd>
-        Website and corporate identity design for Collectible Auto Restoration & Repair Services ## A small auto restoration shop in Royal Center, IN that specializes in classic/collectible automobiles.
-    </dd>
-    
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>PHP</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-### Project212.com – 2011
-<dl>
-    <dt>Built with:</dt>
-    <dd>WordPress CMS</dd>
-    
-    <dt>Responsibilities:</dt>
-    <dd>
-        Website designed for Project212, who is determined to set a new record in the 650cc partially streamlined, turbo-charged on fuel class at the historic Bonneville Salt Flats with a target speed of 212 mph.
-    </dd>
-    
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>PHP</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-# Published Work
-## [More Updates Pending]
-
-## StreetFXSeries.com
-<dl>
-    <dt>Built with:</dt>
-    <dd>Magento Ecommerce Platform</dd>
-
-    <dt>Responsibilities:</dt>
-    <dd>
-        <ul>
-            <li>
-                Cleaning up various lower-quality JPEG images of products for use on the website, including isolating the product from image backgrounds.
-            </li>
-            <li>
-                Graphics and custom HTML and CSS creation for site template, including custom page layouts for non-product display areas.
-            </li>
-            <li>
-                Custom Magento module development, including development of the site’s Dealer Locator, template design, product data coordination, as well as website setup and implementation.
-            </li>
-        </ul>
-    </dd>
-
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>Prototype JS</li>
-            <li>PHP</li>
-            <li>Google Maps API</li>
-            <li>AJAX</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-## Buzline.com
-<dl>
-    <dt>Built with:</dt>
-    <dd>Magento Ecommerce Platform</dd>
-
-    <dt>Responsibilities:</dt>
-    <dd>
-        <ul>
-            <li>Graphics for various site features and areas, including the homepage image slider.</li>
-            <li>Custom Magento module development</li>
-            <li>Template customization</li>
-            <li>Product data coordination and organizationas</li>
-            <li>Website setup and implementation</li>
-        </ul>
-    </dd>
-
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>Prototype JS</li>
-            <li>PHP</li>
-            <li>Google Maps API</li>
-            <li>AJAX</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-## FunFlashingLEDs.com
-<dl>
-    <dt>Built with:</dt>
-    <dd>Magento Ecommerce Platform</dd>
-
-    <dt>Responsibilities:</dt>
-    <dd>
-        <ul>
-            <li>Graphics for various site features and areas, including the homepage image slider.</li>
-            <li>Custom Magento module development</li>
-            <li>Template customization</li>
-            <li>Product data coordination and organizationas</li>
-            <li>Website setup and implementation</li>
-        </ul>
-    </dd>
-
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>Prototype JS</li>
-            <li>PHP</li>
-            <li>Google Maps API</li>
-            <li>AJAX</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-## ButtonExperts.com
-<dl>
-    <dt>Built with:</dt>
-    <dd>Magento Ecommerce Platform</dd>
-
-    <dt>Responsibilities:</dt>
-    <dd>
-        <ul>
-            <li>Site logo design, including graphics for various site sections, features, and buttons,including the homepage image slider.</li>
-            <li>Custom Magento module development</li>
-            <li>Template customization</li>
-            <li>Product data coordination and organization, including website setup and implementation.</li>
-        </ul>
-    </dd>
-
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>Prototype JS</li>
-            <li>PHP</li>
-            <li>Google Maps API</li>
-            <li>AJAX</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
-
-## Buztronics Corporate Portal
-<dl>
-    <dt>Built with:</dt>
-    <dd>Drupal 7</dd>
-
-    <dt>Responsibilities:</dt>
-    <dd>
-        <ul>
-            <li>Database design for and development of numerous custom Drupal modules</li>
-            <li>Modules developed for displaying and editing information from company’s Microsoft Great Plains SSQL database, as well as for integrating with company’s various e-commerce sites.</li>
-            <li>Use of Block module and Views module, as well as Chaos Tools, LDAP, and others.</li>
-        </ul>
-    </dd>
-
-    <dt>Technologies Used:</dt>
-    <dd>
-        <ul>
-            <li>Adobe Photoshop & Illustrator</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>jQuery</li>
-            <li>Prototype JS</li>
-            <li>PHP</li>
-            <li>Google Maps API</li>
-            <li>AJAX</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Apache</li>
-        </ul>
-    </dd>
-</dl>
 
 # References
 

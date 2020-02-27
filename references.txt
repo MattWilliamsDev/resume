@@ -4,11 +4,6 @@ Professional References:
     e: cliff@cliffweiler.com
     p: (317) 509-0975
 
-    Ty Hudson
-    Software Engineer - PERQ (formerly)
-    e: ty@tysoft.me
-    p: (765) 228-9572
-
     Matthew Douglas
     Software Engineer - PERQ
     e: mdouglas@perq.com
