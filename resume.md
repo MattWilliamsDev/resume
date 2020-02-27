@@ -107,7 +107,7 @@
 * Self-motivational skills allow me to thrive while working remotely, on my own, or as a relied-upon member of a team.
 
 # Experience
-## Frontend Developer
+### Frontend Developer
 ### DeveloperTown
 #### Indianapolis, IN, April 2019 - Present
 * Custom applications development using React (with Redux, Typescript, Material UI)
@@ -115,7 +115,7 @@
 * Remainder of time has been spent in a staff augmentation role at Samaritan Ministries via 8th Light
 * Teaching and developing new front-end talent has been a large part of my role with Samaritan
 
-## Consultant
+### Consultant
 ### Centric Consulting
 #### Indianapolis, IN, January 2014 - March 2019
 * 1.5 years in staff augmentation role with the Marketing Cloud App UI and Campaigns App UI teams at ExactTarget 
@@ -130,7 +130,7 @@
 * Experience working for various clients utilizing such technologies as J2EE, NodeJS, AngularJS (v1), Angular (v2+), and ReactJS for building web applications 
 
 
-## Software Engineer
+### Software Engineer
 ### PERQ
 #### Indianapolis, IN, January 2013 - January 2014
 * Maintenance of existing web-based internal systems
@@ -144,7 +144,7 @@
   - Custom CSS for implementing designs provided by the UI/UX team
 
 
-## Web Developer
+### Web Developer
 ### Buztronics, Inc.
 #### Indianapolis, IN, April 2010 – January 2013
 * Building, updating, and maintaining all of the company’s numerous web sites/stores as the member of a 2-man IT Department.
@@ -153,7 +153,7 @@
 * Asked to handle various IT/Tech Support-related tasks and fixing small bugs when they pop up while our IT Department Head is out of the office.
 
 
-## Manager 
+### Manager
 ### Donato’s Pizza
 #### Indianapolis/Carmel, IN, Dec 2007 – Sept 2010
 * Ensure all orders were completed correctly and in the promised amount of time.
@@ -161,7 +161,7 @@
 * Entrusted with counting and depositing funds from the business day/previous business day, inventory management and control, personnel management, delivery routing/logistics, customer service responsibilities, and product ordering.
 
 # Education
-## Associate's Degree - Visual Communication
+### Associate's Degree - Visual Communication
 ### ITT Technical Institute
 #### Indianapolis, IN, Dec 2007 – March 2010
 * Graduated with degree in Visual Communication
