@@ -39,7 +39,7 @@
 * Twitter API
 * Pinterest API
 * jQuery plugin development and customization
-* Nnumerous other plugins and scripts.
+* umerous other plugins and scripts.
   
 ### Adobe Creative Suite:
 * Photoshop
