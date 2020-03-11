@@ -3,6 +3,8 @@
 ##### 317.702.4504
 ##### bleacherbum17@gmail.com
 
+#### Experienced frontend developer with a passion for architecting new applications and helping others to learn and understand new frameworks, techniques, and patterns
+
 # Technical skills
 ## Programming Languages & Development-Related Proficiencies
 * Frontend application design, architecture, and development
