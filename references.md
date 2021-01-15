@@ -6,13 +6,6 @@
         <strong>e:</strong> cliff@cliffweiler.com<br>
         <strong>p:</strong> (317) 509-0975
     </dd>
-
-    <dt>Ty Hudson</dt>
-    <dd>
-        Software Engineer - PERQ (formerly)<br>
-        <strong>e:</strong> ty@tysoft.me<br>
-        <strong>p:</strong> (765) 228-9572
-    </dd>
     
     <dt>Matthew Douglas</dt>
     <dd>
