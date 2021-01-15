@@ -120,13 +120,13 @@
 ### Consultant
 ### Centric Consulting
 #### Indianapolis, IN, January 2014 - March 2019
-* 1+ years working in a staff augmentation role at Kroger as UI lead for the LEAP application
+* 1+ years working in a staff augmentation role at Kroger as UI lead for the LEAP application using Angular 7+
 * Approximately 6 months working with Churchill Downs on an Angular-based kiosk application
-* Approximately 1.5 years experience with Angular (2+) application development (with TypeScript)
+* Approximately 1.5 total years experience with Angular (versions 2 thru 7) application development (with TypeScript)
 * 1.5 years in staff augmentation role with the Marketing Cloud App UI and Campaigns App UI teams at ExactTarget 
 * Part of the team responsible for creating and maintaining the admin areas, MC menu bar, dashboard, calendar, and other areas of the larger Marketing Cloud app utilizing a Backbone Marionette app running inside of an Express JS app via NodeJS 
 * Part of the team responsible for rewriting the ET Campaigns app with the Backbone Marionette framework.  I was personally responsible for the Asset Storyboard, along with other areas of the campaigns app and overall approval process 
-* 2+ years working with ReactJS for a custom app development 
+* 1+ years working with ReactJS for a custom app development
 * Approximately 8 months writing iPad apps with Swift for Ascension Health 
 * Trained in native mobile application development with both Objective-C and React Native 
 * Some experience with React Native for building cross-platform native mobile apps, and the Ionic platform for building hybrid mobile apps 
