@@ -115,7 +115,7 @@
 * Clients include Cummins, Samaritan Ministries, and
 * Approximately 3-months spent working with Cummins, Inc.
 * 1+ year in a staff augmentation role at Samaritan Ministries via 8th Light which included teaching and developing new front-end talent
-* Currently working for 
+* Currently working for Litera rewriting an existing app with functional React and Redux
 
 ### Consultant
 ### Centric Consulting
