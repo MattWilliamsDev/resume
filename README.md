@@ -8,6 +8,7 @@
 # Technical skills
 ## Programming Languages & Development-Related Proficiencies
 * Frontend application design, architecture, and development
+* Authoring and consuming frontend microservices with technologies like TypeScript and AWS Lambdas
 * Creating, updating, and maintaining design systems and component libraries
 * React (including hooks) and various state management tools like Redux, Flux, & Reflux, along with various Redux plugins
 * Angular and AngularJS application development
@@ -28,6 +29,8 @@
 # Software & Technologies
 ### Frontend Frameworks, Plugins, and APIs: 
 * React & related tools (Redux, Context API, Reflux, etc)
+* Authoring and consuming frontend microservices with technologies like TypeScript and AWS Lambdas
+* Creating, updating, and maintaining design systems and component libraries
 * Angular & RxJS
 * Bootstrap, as well as both React and Angular libraries built for use with it
 * Material Design, as well as both React and Angular libraries built for use with it
@@ -72,12 +75,6 @@
 * VirtueMart (Joomla e-commerce)
 * Drupal 7
 
-### Backend Frameworks:
-* Yii
-* Laravel
-* Zend (limited)
-* Implementation and maintenance of various ORM implementations
-
 ### Other:
 * SSH
 * Web Server Deployment
@@ -93,7 +90,6 @@
 * Anything else you can throw at me
 
 # Experience Summary
-* 13+ years working with Adobe Photoshop and the rest of the Adobe Creative Suite for graphic design and web design purposes.  This includes everything from logo design to basic graphic creation to complete template design, slicing, and implementation into various CMS platforms.
 * 18+years working with HTML and CSS
 * 10+ years working with PHP/MySQL, and [L|W]AMP servers
 * 12+ years working with JS professionally
