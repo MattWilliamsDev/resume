@@ -114,10 +114,12 @@
 ### SurveyMonkey
 #### San Mateo, CA, Nov 2021 - April 2025
 * Senior engineer on a team supporting the surveymonkey.com website that fields 38 MILLION visitors/month across 17 languages, and the creators that build content for it
-* Responsible for new features in diverse areas of the stack, from AWS infrastructure configuration, to building React components, to building APIs for new features
+* Develop new features for and maintain high-quality frontend applications, ensuring optimal performance and reliability according to stringent SLA standards
+* Set up CI infrastructure on cloud platforms to streamline development processes and lower costs
 * Responsible for helping to mentor and develop more junior team members across a handful of states and provinces
 * Responsible for maintaining high-availability SLAs and ensuring site reliability for our millions of monthly visitors
 * Had numerous other responsibilites such as interviewing candidates for new positions, supporting other teams with questions about our platform, and onboarding new team members
+* Authored and consumed numerous frontend microservices using TypeScript and AWS Lambdas
 
 ### Senior Frontend Developer
 ### MotorCity Systems
