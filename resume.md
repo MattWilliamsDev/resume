@@ -1,5 +1,5 @@
 ### Matt Williams
-##### Fishers, IN
+##### Logansport, IN
 ##### 317.702.4504
 ##### bleacherbum17@gmail.com
 
@@ -8,14 +8,17 @@
 # Technical skills
 ## Programming Languages & Development-Related Proficiencies
 * Frontend application design, architecture, and development
+* Creating, updating, and maintaining design systems and component libraries
 * React (including hooks) and various state management tools like Redux, Flux, & Reflux, along with various Redux plugins
 * Angular and AngularJS application development
-* NodeJS application development
+* NodeJS/NextJS application development
 * TypeScript
 * JavaScript (ES5-ESNext+), RxJS, Promises, jQuery, and other JS libraries, frontend frameworks, APIs and plugins
-* Agile Software Development
+* AWS services and configuration like S3, EC2, Lambdas, Cloudwatch, etc.
 * HTML{5} & CSS{3}
 * PHP{5.2+}, including numerous PHP-based frameworks and Content Management Systems
+* WordPress
+* Agile Software Development
 * Git
 * CMS Module/Extension Development [WordPress, Drupal, Magento, & Joomla]
 * jQuery plugin development and plugin implementation
@@ -24,7 +27,7 @@
 
 # Software & Technologies
 ### Frontend Frameworks, Plugins, and APIs: 
-* React & related tools (Redux, Reflux, etc)
+* React & related tools (Redux, Context API, Reflux, etc)
 * Angular & RxJS
 * Bootstrap, as well as both React and Angular libraries built for use with it
 * Material Design, as well as both React and Angular libraries built for use with it
@@ -41,8 +44,13 @@
 * Twitter API
 * Pinterest API
 * jQuery plugin development and customization
-* umerous other plugins and scripts.
-  
+* Numerous other plugins and scripts.
+
+### Database:
+* MySQL and Microsoft SQL Server
+* ExactTarget Data Extensions as a DB
+* NoSQL [mongoDB]
+
 ### Adobe Creative Suite:
 * Photoshop
 * Fireworks
@@ -52,19 +60,14 @@
 * Premiere (Pro)
 * Some experience with After Effects
 
-### Database:
-* MySQL and Microsoft SQL Server
-* ExactTarget Data Extensions as a DB
-* NoSQL [mongoDB]
-
 ### Operating Systems:
 * Microsoft Windows [XP, Vista, 7, 8, 10]
 * Linux [Ubuntu, LAMP Server]
 * OSX/MacOS
 
 ### CMS/E-commerce:
-* Magento E-commerce platform
 * WordPress
+* Magento E-commerce platform
 * Joomla!
 * VirtueMart (Joomla e-commerce)
 * Drupal 7
@@ -84,34 +87,49 @@
 * Microsoft Office Suite
 * OpenOffice.org Suite
 * VS Code, Sublime Text, other IDEs
-* Sublime Text 2/3
-* NetBeans IDE
 * Firebug/Chrome Developer Tools
 * Facebook Applications
 * Google Developer Tools
 * Anything else you can throw at me
 
 # Experience Summary
-* 8+ years working with Adobe Photoshop and the rest of the Adobe Creative Suite for graphic design and web design purposes.  This includes everything from logo design to basic graphic creation to complete template design, slicing, and implementation into various CMS platforms.
-* 13+years working with HTML and CSS
-* 5+ years working with PHP/MySQL, and [L|W]AMP servers
-* 7+ years working with JS professionally
-* 7+ years working with frontend frameworks and developing input-driven applications
-* 5+ years experience architecting and building testable and reusable frontend UI components for use in web, native, or hybrid applications
-* 2+ years experience leading and teaching backend/hybrid development teams to become more comfortable and proficient with modern frontend app development
-* 1.5 years experience as a frontend lead on a diverse team located across multiple continents
+* 13+ years working with Adobe Photoshop and the rest of the Adobe Creative Suite for graphic design and web design purposes.  This includes everything from logo design to basic graphic creation to complete template design, slicing, and implementation into various CMS platforms.
+* 18+years working with HTML and CSS
+* 10+ years working with PHP/MySQL, and [L|W]AMP servers
+* 12+ years working with JS professionally
+* 12+ years working with frontend frameworks and developing input-driven applications
+* 10+ years experience architecting and building testable and reusable frontend UI components for use in web, native, or hybrid applications
+* 7+ years experience leading and teaching backend/hybrid development teams to become more comfortable and proficient with modern frontend app development
+* 6.5 years experience as a frontend lead on a diverse team located across multiple countries and/or continents
 * Excellent written and verbal communication skills, along with a strong ability to multi-task and be able to manage multiple deadlines on multiple projects at once.
 * Able to work well with a team and effectively communicate thoughts and ideas.
 * Strong problem-solving skills and ability to quickly adapt to new situations and needs.
-* Constantly striving to deliver the highest-quality work possible while maintaining deadlines
+* Constantly striving to deliver the highest-quality work possible while maintaining deadlines.
 * Unquenchable thirst to learn new ideas, points-of-view, strategies, and techniques to assure thoroughness in development and decision-making.
 * Relentless drive to help make myself, my teammates, and my delivered work the best it can possibly be by staying aware of new development updates, trends, methods, frameworks, and techniques.
 * Self-motivational skills allow me to thrive while working remotely, on my own, or as a relied-upon member of a team.
 
 # Experience
+### Senior Software Engineer II
+### SurveyMonkey
+#### San Mateo, CA, Nov 2021 - April 2025
+* Senior engineer on a team supporting the surveymonkey.com website that fields 38 MILLION visitors/month across 17 languages, and the creators that build content for it
+* Responsible for new features in diverse areas of the stack, from AWS infrastructure configuration, to building React components, to building APIs for new features
+* Responsible for helping to mentor and develop more junior team members across a handful of states and provinces
+* Responsible for maintaining high-availability SLAs and ensuring site reliability for our millions of monthly visitors
+* Had numerous other responsibilites such as interviewing candidates for new positions, supporting other teams with questions about our platform, and onboarding new team members
+
+### Senior Frontend Developer
+### MotorCity Systems
+#### Detroit, MI, Feb 2021 - Nov 2021
+* Custom applications development using Angular
+* Frontend team lead building an all-inclusive trucking/shipping management software suite
+* Helped to see new features through from ideation to shipment to prod
+* Helped to build new FE team to continue building the software suite
+
 ### Frontend Developer
 ### DeveloperTown
-#### Indianapolis, IN, April 2019 - Present
+#### Indianapolis, IN, April 2019 - Feb 2021
 * Custom applications development using React (with Redux, Typescript, Material UI)
 * Approximately 3-months spent on project with Cummins, Inc.
 * Remainder of time has been spent in a staff augmentation role at Samaritan Ministries via 8th Light
