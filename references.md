@@ -28,6 +28,20 @@
 </dl>
 
 <dl>
+    <dt>Wade Minzlaff</dt>
+    <dd>
+        Senior Architect - COAST Systems<br />
+        <strong>e:</strong> wade@wademinzlaff.com<br />
+        <strong>p:</strong> (317) 435-4889
+    </dd>
+    <dd>
+        Senior Software Engineer II - SurveyMonkey<br>
+        <strong>e:</strong> swiseman@surveymonkey.com<br>
+        <strong>p:</strong> (819) 319-9675
+    </dd>
+</dl>
+
+<dl>
     <dt>Cliff Weiler</dt>
     <dd>
         Software Engineer - PERQ (formerly)<br>
