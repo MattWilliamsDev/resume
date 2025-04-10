@@ -1,5 +1,15 @@
 # Professional References:
 <dl>
+    <dt>Alex Bernatskyi</dt>
+    <dd>
+        Director of Engineering - SurveyMonkey<br>
+        <strong>e:</strong> alexb@surveymonkey.com<br>
+        <strong>e:</strong> alex@bernatskyi.com<br>
+        <strong>p:</strong> (203) 703-8173
+    </dd>
+</dl>
+
+<dl>
     <dt>Ryan Boswell</dt>
     <dd>
         Engineering Manager - SurveyMonkey<br>
