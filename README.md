@@ -10,7 +10,7 @@
 * Frontend application design, architecture, and development
 * Authoring and consuming frontend microservices with technologies like TypeScript and AWS Lambdas
 * Creating, updating, and maintaining design systems and component libraries
-* React (including hooks) and various state management tools like Redux, Flux, & Reflux, along with various Redux plugins
+* React (including hooks) and various state management tools like the Context API, useReducer,  Redux, Flux, & Reflux, along with various Redux plugins
 * Angular and AngularJS application development
 * NodeJS/NextJS application development
 * TypeScript
@@ -110,6 +110,7 @@
 ### SurveyMonkey
 #### San Mateo, CA, Nov 2021 - April 2025
 * Senior engineer on a team supporting the surveymonkey.com website that fields 38 MILLION visitors/month across 17 languages, and the creators that build content for it
+* Heavily used React, AWS Lambda with Typescript, NodeJS and Express, Docker, and Github Actions for CI/CD
 * Develop new features for and maintain high-quality frontend applications, ensuring optimal performance and reliability according to stringent SLA standards
 * Set up CI infrastructure on cloud platforms to streamline development processes and lower costs
 * Responsible for helping to mentor and develop more junior team members across a handful of states and provinces
@@ -120,7 +121,7 @@
 ### Senior Frontend Developer
 ### MotorCity Systems
 #### Detroit, MI, Feb 2021 - Nov 2021
-* Custom applications development using Angular
+* Custom applications development using Angular, Typescript, and ng-bootstrap for all frontend development
 * Frontend team lead building an all-inclusive trucking/shipping management software suite
 * Helped to see new features through from ideation to shipment to prod
 * Helped to build new FE team to continue building the software suite
@@ -129,9 +130,9 @@
 ### DeveloperTown
 #### Indianapolis, IN, April 2019 - Feb 2021
 * Custom applications development using React (with Redux, Typescript, Material UI)
-* Approximately 3-months spent on project with Cummins, Inc.
-* Remainder of time has been spent in a staff augmentation role at Samaritan Ministries via 8th Light
-* Teaching and developing new front-end talent has been a large part of my role with Samaritan
+* Approximately 3-months spent on an enterprise-level project with Cummins, Inc. building the web application for their “smart”/“connected” products
+* Remainder of time was spent in a staff augmentation role at Samaritan Ministries via 8th Light building what I can best describe as a “peer-to-peer insurance application”
+* Teaching and developing new front-end talent was a large part of my role with Samaritan
 
 ### Consultant
 ### Centric Consulting
